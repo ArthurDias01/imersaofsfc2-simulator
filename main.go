@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/ArthurDias01/imersaofsfc2-sumulator/application/route"
-	"github.com/ArthurDias01/imersaofsfc2-simulator/infra/kafka"
-
+	"github.com/ArthurDias01/imersaofsfc2-simulator/application/route"
+	"github.com/ArthurDias01/imersaofsfc2-simulator/tree/main/infra/kafka"
 	"github.com/joho/godotenv"
 	"log"
 )
@@ -14,7 +13,7 @@ func init() {
 	if err != nil {
 		log.Fatal
 	}
-}
+}Art13393679thur!
 
 
 func main() {
